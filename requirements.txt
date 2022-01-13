@@ -42,7 +42,7 @@ translate==3.5.0
 translator==0.0.9
 tweepy==3.8.0
 twilio==6.37.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.13
 Werkzeug==1.0.0
 wrapt==1.11.2
